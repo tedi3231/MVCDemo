@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCDemo", "MVCDemo\MVCDemo.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "System.Web.Mvc", "..\SystemWebMvc\System.Web.Mvc.csproj", "{3D3FFD8A-624D-4E9B-954B-E1C105507975}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{E57CCF47-7DBA-4ACA-A37E-BE3933C2C083}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CodeCoverage|Any CPU = CodeCoverage|Any CPU
@@ -29,6 +31,14 @@ Global
 		{3D3FFD8A-624D-4E9B-954B-E1C105507975}.FxCop|Any CPU.Build.0 = FxCop|Any CPU
 		{3D3FFD8A-624D-4E9B-954B-E1C105507975}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D3FFD8A-624D-4E9B-954B-E1C105507975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E57CCF47-7DBA-4ACA-A37E-BE3933C2C083}.CodeCoverage|Any CPU.ActiveCfg = Release|Any CPU
+		{E57CCF47-7DBA-4ACA-A37E-BE3933C2C083}.CodeCoverage|Any CPU.Build.0 = Release|Any CPU
+		{E57CCF47-7DBA-4ACA-A37E-BE3933C2C083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57CCF47-7DBA-4ACA-A37E-BE3933C2C083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57CCF47-7DBA-4ACA-A37E-BE3933C2C083}.FxCop|Any CPU.ActiveCfg = Release|Any CPU
+		{E57CCF47-7DBA-4ACA-A37E-BE3933C2C083}.FxCop|Any CPU.Build.0 = Release|Any CPU
+		{E57CCF47-7DBA-4ACA-A37E-BE3933C2C083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57CCF47-7DBA-4ACA-A37E-BE3933C2C083}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
